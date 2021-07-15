@@ -1,0 +1,114 @@
+C:\Users\computing\Desktop\News App\News App\News App\bin\Debug\News App.exe.config
+C:\Users\computing\Desktop\News App\News App\News App\bin\Debug\News App.exe
+C:\Users\computing\Desktop\News App\News App\News App\bin\Debug\News App.pdb
+C:\Users\computing\Desktop\News App\News App\News App\obj\Debug\News App.csprojAssemblyReference.cache
+C:\Users\computing\Desktop\News App\News App\News App\obj\Debug\News_App.Form1.resources
+C:\Users\computing\Desktop\News App\News App\News App\obj\Debug\News_App.Properties.Resources.resources
+C:\Users\computing\Desktop\News App\News App\News App\obj\Debug\News App.csproj.GenerateResource.cache
+C:\Users\computing\Desktop\News App\News App\News App\obj\Debug\News App.exe
+C:\Users\computing\Desktop\News App\News App\News App\obj\Debug\News App.pdb
+C:\Users\computing\Desktop\News App\News App\News App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\computing\Desktop\News App\News App\News App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\computing\Desktop\News App\News App\News App\obj\Debug\News App.csproj.CopyComplete
+C:\Users\computing\Desktop\News App\News App\News App\News App\bin\Debug\News App.exe.config
+C:\Users\computing\Desktop\News App\News App\News App\News App\bin\Debug\News App.exe
+C:\Users\computing\Desktop\News App\News App\News App\News App\bin\Debug\News App.pdb
+C:\Users\computing\Desktop\News App\News App\News App\News App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\computing\Desktop\News App\News App\News App\News App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\computing\Desktop\News App\News App\News App\News App\obj\Debug\News App.csprojAssemblyReference.cache
+C:\Users\computing\Desktop\News App\News App\News App\News App\obj\Debug\News_App.Form1.resources
+C:\Users\computing\Desktop\News App\News App\News App\News App\obj\Debug\News_App.Properties.Resources.resources
+C:\Users\computing\Desktop\News App\News App\News App\News App\obj\Debug\News App.csproj.GenerateResource.cache
+C:\Users\computing\Desktop\News App\News App\News App\News App\obj\Debug\News App.csproj.CopyComplete
+C:\Users\computing\Desktop\News App\News App\News App\News App\obj\Debug\News App.exe
+C:\Users\computing\Desktop\News App\News App\News App\News App\obj\Debug\News App.pdb
+C:\Users\computing\Desktop\News App\News App\News App\News App\bin\Debug\SpotifyAPI.Web.Auth.dll
+C:\Users\computing\Desktop\News App\News App\News App\News App\bin\Debug\SpotifyAPI.Web.dll
+C:\Users\computing\Desktop\News App\News App\News App\News App\bin\Debug\Unosquare.Labs.EmbedIO.dll
+C:\Users\computing\Desktop\News App\News App\News App\News App\bin\Debug\Unosquare.Swan.Lite.dll
+C:\Users\computing\Desktop\News App\News App\News App\News App\bin\Debug\SpotifyAPI.Web.xml
+C:\Users\computing\Desktop\News App\News App\News App\News App\bin\Debug\SpotifyAPI.Web.Auth.xml
+C:\Users\computing\Desktop\News App\News App\News App\News App\bin\Debug\Unosquare.Labs.EmbedIO.xml
+C:\Users\computing\Desktop\News App\News App\News App\News App\bin\Debug\Unosquare.Swan.Lite.xml
+C:\Users\computing\Desktop\BackTest\News App\News App\News App\News App\bin\Debug\News App.exe.config
+C:\Users\computing\Desktop\BackTest\News App\News App\News App\News App\bin\Debug\News App.exe
+C:\Users\computing\Desktop\BackTest\News App\News App\News App\News App\bin\Debug\News App.pdb
+C:\Users\computing\Desktop\BackTest\News App\News App\News App\News App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\computing\Desktop\BackTest\News App\News App\News App\News App\bin\Debug\SpotifyAPI.Web.Auth.dll
+C:\Users\computing\Desktop\BackTest\News App\News App\News App\News App\bin\Debug\SpotifyAPI.Web.dll
+C:\Users\computing\Desktop\BackTest\News App\News App\News App\News App\bin\Debug\Unosquare.Labs.EmbedIO.dll
+C:\Users\computing\Desktop\BackTest\News App\News App\News App\News App\bin\Debug\Unosquare.Swan.Lite.dll
+C:\Users\computing\Desktop\BackTest\News App\News App\News App\News App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\computing\Desktop\BackTest\News App\News App\News App\News App\bin\Debug\SpotifyAPI.Web.xml
+C:\Users\computing\Desktop\BackTest\News App\News App\News App\News App\bin\Debug\SpotifyAPI.Web.Auth.xml
+C:\Users\computing\Desktop\BackTest\News App\News App\News App\News App\bin\Debug\Unosquare.Labs.EmbedIO.xml
+C:\Users\computing\Desktop\BackTest\News App\News App\News App\News App\bin\Debug\Unosquare.Swan.Lite.xml
+C:\Users\computing\Desktop\BackTest\News App\News App\News App\News App\obj\Debug\News App.csprojAssemblyReference.cache
+C:\Users\computing\Desktop\BackTest\News App\News App\News App\News App\obj\Debug\News_App.Form1.resources
+C:\Users\computing\Desktop\BackTest\News App\News App\News App\News App\obj\Debug\News_App.Properties.Resources.resources
+C:\Users\computing\Desktop\BackTest\News App\News App\News App\News App\obj\Debug\News App.csproj.GenerateResource.cache
+C:\Users\computing\Desktop\BackTest\News App\News App\News App\News App\obj\Debug\News App.csproj.CopyComplete
+C:\Users\computing\Desktop\BackTest\News App\News App\News App\News App\obj\Debug\News App.exe
+C:\Users\computing\Desktop\BackTest\News App\News App\News App\News App\obj\Debug\News App.pdb
+C:\Users\computing\Desktop\BackTest\BackTest\News App\News App\News App\News App\obj\Debug\News App.csprojAssemblyReference.cache
+C:\Users\computing\Desktop\BackTest\BackTest\News App\News App\News App\News App\obj\Debug\News_App.Form1.resources
+C:\Users\computing\Desktop\BackTest\BackTest\News App\News App\News App\News App\obj\Debug\News App.csproj.GenerateResource.cache
+C:\Users\computing\Desktop\BackTest\BackTest\News App\News App\News App\News App\obj\Debug\News App.exe
+C:\Users\computing\Desktop\BackTest\BackTest\News App\News App\News App\News App\obj\Debug\News App.pdb
+C:\Users\computing\Desktop\BackTest\BackTest\News App\News App\News App\News App\bin\Debug\News App.exe.config
+C:\Users\computing\Desktop\BackTest\BackTest\News App\News App\News App\News App\bin\Debug\News App.exe
+C:\Users\computing\Desktop\BackTest\BackTest\News App\News App\News App\News App\bin\Debug\News App.pdb
+C:\Users\computing\Desktop\BackTest\BackTest\News App\News App\News App\News App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\computing\Desktop\BackTest\BackTest\News App\News App\News App\News App\bin\Debug\SpotifyAPI.Web.Auth.dll
+C:\Users\computing\Desktop\BackTest\BackTest\News App\News App\News App\News App\bin\Debug\SpotifyAPI.Web.dll
+C:\Users\computing\Desktop\BackTest\BackTest\News App\News App\News App\News App\bin\Debug\Unosquare.Labs.EmbedIO.dll
+C:\Users\computing\Desktop\BackTest\BackTest\News App\News App\News App\News App\bin\Debug\Unosquare.Swan.Lite.dll
+C:\Users\computing\Desktop\BackTest\BackTest\News App\News App\News App\News App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\computing\Desktop\BackTest\BackTest\News App\News App\News App\News App\bin\Debug\SpotifyAPI.Web.xml
+C:\Users\computing\Desktop\BackTest\BackTest\News App\News App\News App\News App\bin\Debug\SpotifyAPI.Web.Auth.xml
+C:\Users\computing\Desktop\BackTest\BackTest\News App\News App\News App\News App\bin\Debug\Unosquare.Labs.EmbedIO.xml
+C:\Users\computing\Desktop\BackTest\BackTest\News App\News App\News App\News App\bin\Debug\Unosquare.Swan.Lite.xml
+C:\Users\computing\Desktop\BackTest\BackTest\News App\News App\News App\News App\obj\Debug\News_App.Properties.Resources.resources
+C:\Users\computing\Desktop\BackTest\BackTest\News App\News App\News App\News App\obj\Debug\News App.csproj.CoreCompileInputs.cache
+C:\Users\computing\Desktop\BackTest\BackTest\News App\News App\News App\News App\obj\Debug\News App.csproj.CopyComplete
+C:\Users\computing\Desktop\Software-Engineering-Project\BackendSide\BackTest\BackTest\BackTest\News App\News App\News App\News App\bin\Debug\News App.exe.config
+C:\Users\computing\Desktop\Software-Engineering-Project\BackendSide\BackTest\BackTest\BackTest\News App\News App\News App\News App\bin\Debug\News App.exe
+C:\Users\computing\Desktop\Software-Engineering-Project\BackendSide\BackTest\BackTest\BackTest\News App\News App\News App\News App\bin\Debug\News App.pdb
+C:\Users\computing\Desktop\Software-Engineering-Project\BackendSide\BackTest\BackTest\BackTest\News App\News App\News App\News App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\computing\Desktop\Software-Engineering-Project\BackendSide\BackTest\BackTest\BackTest\News App\News App\News App\News App\bin\Debug\SpotifyAPI.Web.Auth.dll
+C:\Users\computing\Desktop\Software-Engineering-Project\BackendSide\BackTest\BackTest\BackTest\News App\News App\News App\News App\bin\Debug\SpotifyAPI.Web.dll
+C:\Users\computing\Desktop\Software-Engineering-Project\BackendSide\BackTest\BackTest\BackTest\News App\News App\News App\News App\bin\Debug\Unosquare.Labs.EmbedIO.dll
+C:\Users\computing\Desktop\Software-Engineering-Project\BackendSide\BackTest\BackTest\BackTest\News App\News App\News App\News App\bin\Debug\Unosquare.Swan.Lite.dll
+C:\Users\computing\Desktop\Software-Engineering-Project\BackendSide\BackTest\BackTest\BackTest\News App\News App\News App\News App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\computing\Desktop\Software-Engineering-Project\BackendSide\BackTest\BackTest\BackTest\News App\News App\News App\News App\bin\Debug\SpotifyAPI.Web.xml
+C:\Users\computing\Desktop\Software-Engineering-Project\BackendSide\BackTest\BackTest\BackTest\News App\News App\News App\News App\bin\Debug\SpotifyAPI.Web.Auth.xml
+C:\Users\computing\Desktop\Software-Engineering-Project\BackendSide\BackTest\BackTest\BackTest\News App\News App\News App\News App\bin\Debug\Unosquare.Labs.EmbedIO.xml
+C:\Users\computing\Desktop\Software-Engineering-Project\BackendSide\BackTest\BackTest\BackTest\News App\News App\News App\News App\bin\Debug\Unosquare.Swan.Lite.xml
+C:\Users\computing\Desktop\Software-Engineering-Project\BackendSide\BackTest\BackTest\BackTest\News App\News App\News App\News App\obj\Debug\News App.csprojAssemblyReference.cache
+C:\Users\computing\Desktop\Software-Engineering-Project\BackendSide\BackTest\BackTest\BackTest\News App\News App\News App\News App\obj\Debug\News_App.Form1.resources
+C:\Users\computing\Desktop\Software-Engineering-Project\BackendSide\BackTest\BackTest\BackTest\News App\News App\News App\News App\obj\Debug\News_App.Properties.Resources.resources
+C:\Users\computing\Desktop\Software-Engineering-Project\BackendSide\BackTest\BackTest\BackTest\News App\News App\News App\News App\obj\Debug\News App.csproj.GenerateResource.cache
+C:\Users\computing\Desktop\Software-Engineering-Project\BackendSide\BackTest\BackTest\BackTest\News App\News App\News App\News App\obj\Debug\News App.csproj.CoreCompileInputs.cache
+C:\Users\computing\Desktop\Software-Engineering-Project\BackendSide\BackTest\BackTest\BackTest\News App\News App\News App\News App\obj\Debug\News App.csproj.CopyComplete
+C:\Users\computing\Desktop\Software-Engineering-Project\BackendSide\BackTest\BackTest\BackTest\News App\News App\News App\News App\obj\Debug\News App.exe
+C:\Users\computing\Desktop\Software-Engineering-Project\BackendSide\BackTest\BackTest\BackTest\News App\News App\News App\News App\obj\Debug\News App.pdb
+C:\Users\dariu\Downloads\News App (2)\News App\News App\obj\Debug\News_App.Properties.Resources.resources
+C:\Users\dariu\Downloads\News App (2)\News App\News App\obj\Debug\News App.csproj.GenerateResource.cache
+C:\Users\dariu\Downloads\News App (2)\News App\News App\bin\Debug\News App.exe.config
+C:\Users\dariu\Downloads\News App (2)\News App\News App\bin\Debug\News App.exe
+C:\Users\dariu\Downloads\News App (2)\News App\News App\bin\Debug\News App.pdb
+C:\Users\dariu\Downloads\News App (2)\News App\News App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dariu\Downloads\News App (2)\News App\News App\bin\Debug\SpotifyAPI.Web.Auth.dll
+C:\Users\dariu\Downloads\News App (2)\News App\News App\bin\Debug\SpotifyAPI.Web.dll
+C:\Users\dariu\Downloads\News App (2)\News App\News App\bin\Debug\Unosquare.Labs.EmbedIO.dll
+C:\Users\dariu\Downloads\News App (2)\News App\News App\bin\Debug\Unosquare.Swan.Lite.dll
+C:\Users\dariu\Downloads\News App (2)\News App\News App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dariu\Downloads\News App (2)\News App\News App\bin\Debug\SpotifyAPI.Web.xml
+C:\Users\dariu\Downloads\News App (2)\News App\News App\bin\Debug\SpotifyAPI.Web.Auth.xml
+C:\Users\dariu\Downloads\News App (2)\News App\News App\bin\Debug\Unosquare.Labs.EmbedIO.xml
+C:\Users\dariu\Downloads\News App (2)\News App\News App\bin\Debug\Unosquare.Swan.Lite.xml
+C:\Users\dariu\Downloads\News App (2)\News App\News App\obj\Debug\News_App.Form1.resources
+C:\Users\dariu\Downloads\News App (2)\News App\News App\obj\Debug\News App.csproj.CoreCompileInputs.cache
+C:\Users\dariu\Downloads\News App (2)\News App\News App\obj\Debug\News App.csproj.CopyComplete
+C:\Users\dariu\Downloads\News App (2)\News App\News App\obj\Debug\News App.exe
+C:\Users\dariu\Downloads\News App (2)\News App\News App\obj\Debug\News App.pdb
